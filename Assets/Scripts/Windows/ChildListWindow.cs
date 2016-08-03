@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GameOverWindow : GenericWindow {
+public class ChildListWindow : GenericWindow {
 
 
 	public void OnNext(){
