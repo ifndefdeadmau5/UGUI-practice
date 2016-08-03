@@ -2,8 +2,6 @@
 using System.Collections;
 
 public class ChildListWindow : GenericWindow {
-
-
 	public void OnNext(){
 		manager.Open(0);
 	}
